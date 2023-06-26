@@ -37,3 +37,6 @@ notification.mp3
 /node_modules
 /package-lock.json
 /.coverage*
+webui-yuezhan.bat
+.gitignore
+textual_inversion_templates/subject_filewords_face.txt
